@@ -12,7 +12,7 @@ const houses = [
   },
   {
     id: 2,
-    title: 'Country Cottage',
+    title: 'Country Cottag',
     images: ['/images/cottage.jpg', '/images/cottage2.jpg'],
     price: '$300,000',
     description: 'A cozy cottage in the countryside with a large garden.',
@@ -81,7 +81,7 @@ function App() {
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          
+
           </p>
 
         <button
